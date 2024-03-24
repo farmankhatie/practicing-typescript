@@ -1,6 +1,6 @@
 {
   "name": "mch-bmi-calculator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is BMI calculator which crafted with Typescript, Inquirer, and Chalk. ",
   "main": "index.js",
   "type": "module",
